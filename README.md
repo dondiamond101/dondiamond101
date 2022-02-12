@@ -1,3 +1,1 @@
-- 👋 Hi, I’m dondiamond101
-- 👀 I’m interested in not much really lmao
-- 🌱 I’m currently learning C#
+
